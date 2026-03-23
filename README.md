@@ -102,5 +102,5 @@ I'm looking for junior developer roles and open to collaboration on interesting 
 ---
 
 <div align="center">
-<sub>Building from Eldoret, Kenya 🇰🇪</sub>
+<sub>Building from Nakuru, Kenya 🇰🇪</sub>
 </div>
