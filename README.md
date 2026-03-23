@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a junior developer based in **Eldoret, Kenya** who genuinely enjoys solving problems — not just writing code, but thinking through the right solution and building something that actually works.
+I'm a junior developer based in **Nakuru, Kenya** who genuinely enjoys solving problems — not just writing code, but thinking through the right solution and building something that actually works.
 
 - 🔧 I believe the best code saves someone time — see **[dev-toolkit](https://github.com/Kiproy04/dev-toolkit)**
 - 🐍 Backend development with **Python & Django** — APIs, data models, clean architecture
