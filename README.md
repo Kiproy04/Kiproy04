@@ -10,7 +10,7 @@
 ```
 
 ### Hi, I'm Leroy Kirui 👋
-**Junior Developer · Tool Builder · Problem Solver**
+**Full-stack Developer · Tool Builder · Problem Solver**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lee--devs.vercel.app-0a0a0a?style=for-the-badge)](https://lee-devs.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kiproy04-171515?style=for-the-badge&logo=github)](https://github.com/Kiproy04)
